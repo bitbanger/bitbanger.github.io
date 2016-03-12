@@ -7,17 +7,11 @@ p {
 	font-family: Georgia, serif;
 }
 
-img.center {
+img.profile {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	-webkit-filter: blur(5px);
-	-moz-filter: blur(5px);
-	-o-filter: blur(5px);
-	-ms-filter: blur(5px);
-	filter: blur(5px);
-}
-
-div.groove {
-	border-style: groove;
+	-moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	box-shadow: 1px 2px 3px rgba(0,0,0,.5);
 }
