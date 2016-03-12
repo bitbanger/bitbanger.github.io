@@ -6,3 +6,9 @@ h1 {
 p {
 	font-family: Georgia, serif;
 }
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
