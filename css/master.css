@@ -7,6 +7,10 @@ p {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+body {
+	background-image: url('../images/retina_wood.png');
+}
+
 img.profile {
 	display: block;
 	margin-left: auto;
@@ -24,7 +28,7 @@ img.profile {
 .box {
 	display: inline-block;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #444444;
+	color: #111111;
 	font-size: 18px;
 	margin: 0 auto;
 	background-color: #f0bd8b;
